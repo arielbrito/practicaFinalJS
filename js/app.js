@@ -1,6 +1,7 @@
 /* Codigo Calculadora Proyecto curso desarrollo Web NEXTU 
                 By Ariel Brito ► Año 2019
-                   Republica Dominicana
+				   Republica Dominicana
+				   Lunes 29 de Septiembre 2019
 
 */
 
